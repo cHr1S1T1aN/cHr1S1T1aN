@@ -1,6 +1,8 @@
 - Hi, I'm Christian .<br>
 - I'm a back-end dev, I'm looking for new opportunities in the job market.<br>
 - I like to get involved in new projects always looking for big goals to be achieved!
+- ![Gif pc gamer](https://giffiles.alphacoders.com/215/215911.gif)
+
 ---
 🖥️Tech:<br>
 <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
