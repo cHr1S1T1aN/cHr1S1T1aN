@@ -3,7 +3,8 @@
 - I like to get involved in new projects always looking for big goals to be achieved!
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A800&width=435&lines=🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️)
 ![Gif pc gamer](https://giffiles.alphacoders.com/215/215911.gif)
-
+<br> “Otimização prematura é a raiz de todos os males.”
+— Donald Knuth
 Techs:<br>
 <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
