@@ -1,8 +1,47 @@
-- Hi, I'm Christian .<br>
-- I'm a back-end dev, I'm looking for new opportunities in the job market.<br>
-- I like to get involved in new projects always looking for big goals to be achieved!
--  “Otimização prematura é a raiz de todos os males.”
-— Donald Knuth<br>
+
+# Olá, sou Christian Morais
+
+Desenvolvedor Back-end com foco em Java e Spring Boot.
+
+Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional como Desenvolvedor Java Júnior.
+
+## 🚀 Tecnologias
+
+- Java
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL
+- MySQL
+- Docker
+- Git & GitHub
+- REST APIs
+- TypeScript
+- React Native
+
+## 📌 Projetos em Destaque
+
+### Owlbear Extension
+Extensão desenvolvida para integração com mesas de RPG utilizando a plataforma Owlbear.
+
+Tecnologias:
+- TypeScript
+- JavaScript
+
+## 📚 Atualmente estudando
+
+- Arquitetura de Software
+- Docker
+- Kubernetes
+- DevOps
+- AWS
+
+## 📫 Contato
+
+LinkedIn:
+www.linkedin.com/in/christian-morais-915810264
+
+Email:
+chrismorats50918@gmail.com
 ![Gif pc gamer](https://giffiles.alphacoders.com/215/215911.gif)
 
 Techs:<br>
