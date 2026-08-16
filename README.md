@@ -8,11 +8,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca da minha 
 ## 🚀 Tecnologias
 
 - Java
-- Spring Boot
-- JPA / Hibernate
-- PostgreSQL
 - MySQL
-- Docker
 - Git & GitHub
 - REST APIs
 - TypeScript
