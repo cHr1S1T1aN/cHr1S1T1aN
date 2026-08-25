@@ -27,11 +27,11 @@ Tecnologias:
 Portfolio voltado para criação de vagas de emprego,foi criado a partir de uma proposta feita para o meu TCC.
 
 Tecnologias:
--TypeScript
--Node.js
--Express
--Vite
--Firebase
+- TypeScript
+- Node.js
+- Express
+- Vite
+- Firebase
 
 ## 📚 Atualmente estudando
 
