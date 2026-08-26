@@ -5,15 +5,6 @@ Desenvolvedor Back-end com foco em Java e Spring Boot.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional como Desenvolvedor Java Júnior.
 
-## 🚀 Tecnologias
-
-- Java
-- MySQL
-- Git & GitHub
-- REST APIs
-- TypeScript
-- React Native
-
 ## 📌 Projetos em Destaque
 
 ### Owlbear Extension
